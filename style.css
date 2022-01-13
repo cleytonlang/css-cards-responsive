@@ -51,8 +51,8 @@ main.cards section.card:first-child {
 }
 
 main.cards section.card .icon {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 }
 
 main.cards section.card img {
@@ -107,10 +107,9 @@ main.cards section.card.about {
   box-shadow: 20px 20px 50px -30px #1c67d0;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 960px) {
   main.cards {
     flex-direction: column;
-
   }
 
   main.cards section.card{
