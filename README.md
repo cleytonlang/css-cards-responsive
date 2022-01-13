@@ -1,3 +1,3 @@
 # css-cards-responsive
-Responsive Cards
+Responsive Cards - Improving knowledge of CSS
 ![](image.jpg)
